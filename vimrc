@@ -10,6 +10,8 @@ call plug#end()
 syntax on
 colorscheme gruvbox
 
+set backspace=indent,eol,start
+
 set nu
 set is
 set wildmenu
